@@ -1,5 +1,5 @@
 # Microservices #
-## A list of weblinks and resources as I discover more about *Microservices* ##
+## Notable articles & videos found as I discover more about *Microservices* ##
 
 [The Seven Deadly Sins of Microservices](https://www.youtube.com/watch?v=TjomOMEsJhk "Seven Deadly Sins")
 
