@@ -12,7 +12,7 @@ Mike Coleman at Docker does Containers & VM’s etc as an intro session at last 
 
 
 
-John Willis (works for Docker) runs a podcast series called DevOps Café (see above) – John has done loads of Keynote speeches including [this](https://www.youtube.com/watch?v=nxhc_Ixoxs0) on DevOps & Immutable delivery (i.e. what containers bring)
+John Willis (works for Docker) runs a podcast series called [DevOps Café](http://devopscafe.org/) (also see Podcasts list) – John has done loads of Keynote speeches including [this](https://www.youtube.com/watch?v=nxhc_Ixoxs0) on DevOps & Immutable delivery (i.e. what containers bring)
 
 He has also authored and delivered the Linux Foundation Intro to DevOps [course](https://www.edx.org/course/introduction-devops-transforming-linuxfoundationx-lfs161x) which I have recently cmpleted and would highly recommend after gaining the [cert](https://courses.edx.org/certificates/1b8610287cd541178199d79b6fabcf3a)
 
