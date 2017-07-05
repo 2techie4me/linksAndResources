@@ -1,4 +1,4 @@
-# DevOps - The first Way #
+# DevOps - The First Way #
 ## There are said to be "three ways" of DevOps - this is the first  ##
 
 ## What is it? ##
