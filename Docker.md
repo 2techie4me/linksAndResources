@@ -44,6 +44,8 @@ Docker Networking at VISA - Customer [Story](https://www.youtube.com/watch?v=4Gu
 
 Watch the [video]() and see how HPE's Internal IT team is using Docker to speed up application delivery and enable transformation
 
+<a>href="http://www.youtube.com/watch?feature=player_embedded&v=Urplr9ojyfs"target="_blank"><img src="http://img.youtube.com/vi/Urplr9ojyfs/0.jpg"alt="IMAGE ALT TEXT HERE" width="240"height="180" border="10" /> </a>
+
 ### This is just testing table formatting ###
 
 | Projects        | Are               | Cool  |
