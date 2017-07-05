@@ -5,6 +5,6 @@
 
 ## Why is it important? ##
 
-## How does it work ? ##
+## How does it work? ##
 
 ## What are the alternatives? ##
