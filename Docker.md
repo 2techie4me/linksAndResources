@@ -52,6 +52,6 @@ Watch the [video]() and see how HPE's Internal IT team is using Docker to speed 
 | ------------- |:-------------------:| -----:|
 | InfraKit      | Infra API's         | $1600 |
 | LinuxKit      | Roll yr own distro   |   $12 |
-| MTA           | V2C-ish             |    $1 |
+| MTA           | a2c             |    $1 |
 
 Be sure to mention "Play with Docker"
