@@ -5,23 +5,23 @@
 
 ## Cloud Consumption XaaS
 
-### [Synergy & Docker Reference Guide](https://www.hpe.com/h20195/V2/Getdocument.aspx?docname=a00008645enw)
+* [Synergy & Docker Reference Guide](https://www.hpe.com/h20195/V2/Getdocument.aspx?docname=a00008645enw)
 
-### [Simplivity powered Private Cloud in Minutes](https://h20195.www2.hpe.com/V2/GetPDF.aspx/a00008252ENW.pdf)
+* [Simplivity powered Private Cloud in Minutes](https://h20195.www2.hpe.com/V2/GetPDF.aspx/a00008252ENW.pdf)
 
-### [Nimble Plugin for Containers (deep dive)](https://www.youtube.com/watch?list=PLinuRwpnsHad0tatAfa4kIWQzGNkiHqW1&v=h-xnYVgzfro) 
+* [Nimble Plugin for Containers (deep dive)](https://www.youtube.com/watch?list=PLinuRwpnsHad0tatAfa4kIWQzGNkiHqW1&v=h-xnYVgzfro) 
 
-### [HPE & Docker - Modernizing Traditional Applications Service](https://www.hpe.com/h20195/V2/Getdocument.aspx?docname=a00020124enw)
+* [HPE & Docker - Modernizing Traditional Applications Service](https://www.hpe.com/h20195/V2/Getdocument.aspx?docname=a00020124enw)
 
 ## Visibility
 
-### [The Goal](https://wordery.com/the-goal-eliyahu-m-goldratt-9780884272076) - Theory of Constraints brought to life in a Graphic Novel
+* [The Goal](https://wordery.com/the-goal-eliyahu-m-goldratt-9780884272076) - Theory of Constraints brought to life in a Graphic Novel
 
-### [Rob Hirschfeld](https://www.twitter.com/zehickle) usually has something to say about [Infrastructure automation and Change Control](https://robhirschfeld.com/)
+* [Rob Hirschfeld](https://www.twitter.com/zehickle) usually has something to say about [Infrastructure automation and Change Control](https://robhirschfeld.com/)
 
-### [Trunks & feature flags](https://featureflags.io/2016/01/14/trunk-based-development/)  
+* [Trunks & feature flags](https://featureflags.io/2016/01/14/trunk-based-development/)  
 
-### [Kanban for Operations](https://www.youtube.com/watch?v=coRx-onQ09Y) video & the [book](https://www.bookdepository.com/Making-Work-Visible-Dominica-Degrandis/9781942788157) that goes with it
+* [Kanban for Operations](https://www.youtube.com/watch?v=coRx-onQ09Y) video & the [book](https://www.bookdepository.com/Making-Work-Visible-Dominica-Degrandis/9781942788157) that goes with it
 
 ## Observability, Instrumentation & Monitoring
 
