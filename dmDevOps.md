@@ -108,31 +108,32 @@ c.       Register Story – Prod DB Nuked - https://www.theregister.co.uk/2017/0
 
 a.       AliceGoldfuss @ DockerconEurope – https://www.youtube.com/watch?v=eZp3W4qYhJc
 
-12)   CI/CD
+## CI/CD
 
-a.       Humble & Farley Book - – https://wordery.com/continuous-delivery-jez-humble-9780321601919
+* [Humble & Farley Book](https://wordery.com/continuous-delivery-jez-humble-9780321601919)
 
-b.      Farley’s Laws – Video - https://www.youtube.com/watch?v=dQzkT5A95Go
+* [Farley’s Laws – Video](https://www.youtube.com/watch?v=dQzkT5A95Go)
 
-c.       HPE Branded training on CI/CD – https://www.hpe.com/h20195/V2/Getdocument.aspx?docname=a00000481enw
+* [HPE Branded training on CI/CD](https://www.hpe.com/h20195/V2/Getdocument.aspx?docname=a00000481enw)
 
-13)   Transformation Highway
+## Transformation Highway
 
-a.       Microsoft’s Visual Studio – 3 year Journey - https://www.visualstudio.com/learn/devops-at-microsoft/
+* [Microsoft’s Visual Studio – 3 year Journey](https://www.visualstudio.com/learn/devops-at-microsoft/)
 
-14)   World in My Eyes
+## World in My Eyes
 
-a.       DevOps – https://www.edx.org/course/introduction-devops-transforming-linuxfoundationx-lfs161x
+* [DevOps](https://www.edx.org/course/introduction-devops-transforming-linuxfoundationx-lfs161x)
 
-b.      Infra as Code - https://www.visualstudio.com/learn/what-is-infrastructure-as-code/
+* [Infra as Code](https://www.visualstudio.com/learn/what-is-infrastructure-as-code/)
 
-15)   Summary
+## Summary
 
-a.       Jon Topper – “Boring is Better” - DevopsDaysLondon17 - [![(https://img.youtube.com/vi/90EUfSpk96M)](https://www.youtube.com/watch?v=90EUfSpk96M)
+* Jon Topper – “Boring is Better” - DevopsDaysLondon17 
+[![Boring](https://i.ytimg.com/vi/90EUfSpk96M/hqdefault.jpg)](https://www.youtube.com/watch?v=90EUfSpk96M)
 
-** [Jessica Kerr](https://www.twitter.com/jessitron) – evaluating new tech - [Blog](https://blog.codeship.com/growing-tech-stack-say-no/)
+* [Jessica Kerr](https://www.twitter.com/jessitron) – evaluating new tech - [Blog](https://blog.codeship.com/growing-tech-stack-say-no/)
 
-c.       Microservices Principles [Book](https://wordery.com/building-microservices-sam-newman-9781491950357) - and the [Video](https://www.youtube.com/watch?v=PFQnNFe27kU)  
+* Microservices Principles [Book](https://wordery.com/building-microservices-sam-newman-9781491950357) - and the [Video](https://www.youtube.com/watch?v=PFQnNFe27kU)  
 
 * **A Hitchhiker's Guide to Cloud Native** [![The Hitchhiker’s Guide to the Cloud Native Stack](https://i.ytimg.com/vi/eMMkOyZwam4/hqdefault.jpg)](https://www.youtube.com/watch?v=eMMkOyZwam4)
 
