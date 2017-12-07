@@ -50,59 +50,59 @@
 
 * 2 Pizza Teams – Werner Vogels - [Amazon does Lean](https://vimeo.com/29719577)
 
-b.      Jessitron – See 15b
+* Jessitron – See 15b
 
-c.       Jepsen Tests – [How bulletproof are your databases](https://jepsen.io/analyses)
+* Jepsen Tests – [How bulletproof are your databases](https://jepsen.io/analyses)
 
-d.      Limoncelli Book – https://wordery.com/the-practice-of-cloud-system-administration-thomas-a-limoncelli-9780321943187
+* Thomas Limoncelli [Book](https://wordery.com/the-practice-of-cloud-system-administration-thomas-a-limoncelli-9780321943187)
 
-e.      Google SRE – https://landing.google.com/sre/book.html
+* Google SRE [Book](https://landing.google.com/sre/book.html)
 
-6)      Pipeline security
+## Pipeline security
 
-a.       NIST White Paper - https://www.nist.gov/publications/nist-guidance-application-container-security
+* [NIST White Paper](https://www.nist.gov/publications/nist-guidance-application-container-security)
 
-b.      Application Securty (Panel) - https://www.youtube.com/watch?v=_MNHkkI9TBk
+* [Application Securty (Panel)](https://www.youtube.com/watch?v=_MNHkkI9TBk)
 
-c.       LinuxKit - https://github.com/linuxkit/linuxkit
+* [LinuxKit](https://github.com/linuxkit/linuxkit)
 
-d.      HPE with Aqua ref Arch – https://www.hpe.com/h20195/V2/Getdocument.aspx?docname=a00020438enw
+* [HPE with Aqua reference Architecture](https://www.hpe.com/h20195/V2/Getdocument.aspx?docname=a00020438enw) for container image scanning
 
-e.      Grafeas.io – https://grafeas.io/blog/
+* [Grafeas.io](https://grafeas.io/blog/) an open source framework for securing container images
 
-7)      Lean & Continuous Learning
+## Lean & Continuous Learning
 
-a.       Mike Rother – http://www-personal.umich.edu/~mrother/Homepage.html
+* [Mike Rother](http://www-personal.umich.edu/~mrother/Homepage.html) - Continuous Improvement with Toyota Kata
 
-b.      DevOps Café – Randy Shoup – http://devopscafe.org/show/2017/10/11/devops-cafe-episode-76-randy-shoup.html
+* DevOps Café – [Episode with Randy Shoup](http://devopscafe.org/show/2017/10/11/devops-cafe-episode-76-randy-shoup.html)
 
-c.       Pair Programming – https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF
+* [Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
 
-8)      Service Resilience
+## Service Resilience
 
-a.       Chaos Monkey et al – Josh Evans of Netflix - – https://www.youtube.com/watch?v=9R710ry-Cbo
+* [Chaos Monkey et al – Josh Evans of Netflix](https://www.youtube.com/watch?v=9R710ry-Cbo)
 
-b.      O’Reilly Velocity – they are all good - https://www.youtube.com/playlist?list=PL055Epbe6d5br5pYNZ9mTCKl4EKS1Nk0Y
+* [O’Reilly Velocity Conference Talks](https://www.youtube.com/playlist?list=PL055Epbe6d5br5pYNZ9mTCKl4EKS1Nk0Y) - they are all good
 
-c.       Limoncelli  -Chapter 15
+* Limoncelli  -Chapter 15
 
-d.      Antifragile Book – https://wordery.com/antifragile-nassim-nicholas-taleb-9780141038223
+* [Antifragile Book](https://wordery.com/antifragile-nassim-nicholas-taleb-9780141038223)
 
-9)      Organizational Culture
+## Organizational Culture
 
-a.       Drucker  - Spotify Engineering Culture - - https://vimeo.com/85490944 and Pt 2 - https://vimeo.com/94950270
+* Drucker Cultural Change - Spotify Engineering Culture - [Pt 1](https://vimeo.com/85490944) and [Pt 2](https://vimeo.com/94950270)
 
-b.      HPE Pointnext Simulation Day Video - https://www.youtube.com/watch?v=1VSEvX_ZvOI
+* [HPE Pointnext Simulation Day Video](https://www.youtube.com/watch?v=1VSEvX_ZvOI)
 
-c.       HPE Management of Change - https://www.youtube.com/watch?v=WgKFDAALmp4
+* [HPE Management of Change](https://www.youtube.com/watch?v=WgKFDAALmp4)
 
-   10) Learning Organization
+ ## Learning Organization
 
-a.       Deming Cycle - https://www.youtube.com/watch?v=QcRWQIL5qus
+* Deming Cycle - Lighning Talk from [John Willis](https://www.twitter.com/botchagalupe) O'Reilly Velocity [talk](https://www.youtube.com/watch?v=QcRWQIL5qus)
 
-b.      Monzo Outage – Full disclosure - https://community.monzo.com/t/resolved-current-account-payments-may-fail-major-outage-27-10-2017/26296/94
+* Monzo Outage – [Full disclosure](https://community.monzo.com/t/resolved-current-account-payments-may-fail-major-outage-27-10-2017/26296/94)
 
-c.       Register Story – Prod DB Nuked - https://www.theregister.co.uk/2017/06/05/dev_accidentally_nuked_production_database_was_allegedly_instantly_fired/
+* The Register Story – [Prod DB Nuked](https://www.theregister.co.uk/2017/06/05/dev_accidentally_nuked_production_database_was_allegedly_instantly_fired/)
 
 ## Shared Responsibility & Goals
 
