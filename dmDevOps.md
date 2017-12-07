@@ -3,56 +3,56 @@
 
 
 
-1.      Cloud Consumption XaaS
+## Cloud Consumption XaaS
 
-### Synergy & Docker - https://www.hpe.com/h20195/V2/Getdocument.aspx?docname=a00008645enw
+### [Synergy & Docker Reference Guide](https://www.hpe.com/h20195/V2/Getdocument.aspx?docname=a00008645enw)
 
-### Simplivity powered Private Cloud in Minutes - https://h20195.www2.hpe.com/V2/GetPDF.aspx/a00008252ENW.pdf
+### [Simplivity powered Private Cloud in Minutes](https://h20195.www2.hpe.com/V2/GetPDF.aspx/a00008252ENW.pdf)
 
-### Nimble Plugin for Containers (deep dive) - https://www.youtube.com/watch?list=PLinuRwpnsHad0tatAfa4kIWQzGNkiHqW1&v=h-xnYVgzfro  
+### [Nimble Plugin for Containers (deep dive)](https://www.youtube.com/watch?list=PLinuRwpnsHad0tatAfa4kIWQzGNkiHqW1&v=h-xnYVgzfro) 
 
-### HPE & Docker - Modernizing Traditional Applications Service - https://www.hpe.com/h20195/V2/Getdocument.aspx?docname=a00020124enw
+### [HPE & Docker - Modernizing Traditional Applications Service](https://www.hpe.com/h20195/V2/Getdocument.aspx?docname=a00020124enw)
 
-2.      Visibility
+## Visibility
 
-a.       The Goal - https://wordery.com/the-goal-eliyahu-m-goldratt-9780884272076
+### [The Goal](https://wordery.com/the-goal-eliyahu-m-goldratt-9780884272076) - Theory of Constraints brought to life in a Graphic Novel
 
-b.      Infrastructure Change Control - https://robhirschfeld.com/
+### [Rob Hirschfeld](https://www.twitter.com/zehickle) usually has something to say about [Infrastructure automation and Change Control](https://robhirschfeld.com/)
 
-c.       Trunks & feature flags - https://featureflags.io/2016/01/14/trunk-based-development/  
+### [Trunks & feature flags](https://featureflags.io/2016/01/14/trunk-based-development/)  
 
-d.      Kanban for Operations - https://www.youtube.com/watch?v=coRx-onQ09Y  & the book - https://www.bookdepository.com/Making-Work-Visible-Dominica-Degrandis/9781942788157
+### [Kanban for Operations](https://www.youtube.com/watch?v=coRx-onQ09Y) video & the [book](https://www.bookdepository.com/Making-Work-Visible-Dominica-Degrandis/9781942788157) that goes with it
 
-3.      Observability, Instrumentation & Monitoring
+## Observability, Instrumentation & Monitoring
 
-* **Dynatrace** – (Case Studies)  - https://www.dynatrace.com/company/customers/
+* **Dynatrace** application monitoring – [Case Studies](https://www.dynatrace.com/company/customers/)
 
-*   **ELK** – (for beginners) - https://www.youtube.com/watch?v=MRMgd6E9AXE
+*   **ELK** – [Video for beginners](https://www.youtube.com/watch?v=MRMgd6E9AXE)
 
-*   **[Prometheus](https://www.prometheus.io)** - https://www.youtube.com/watch?v=PDxcEzu62jk
+*   **[Prometheus](https://www.prometheus.io)** - [Video from DockerCon Europe](https://www.youtube.com/watch?v=PDxcEzu62jk)
 
 *   **[Honeycomb](https://www.honeycomb.io)** - https://honeycomb.io/blog/
  and [Charity Majors](Https://www.twitter.com/mipsytipsy) speaking at [serverlessconf](https://www.youtube.com/watch?v=hG39tB5qqMc) 
 
-e.      [James Turnbull](https://twitter.com/kartar) - author of [The Art of Monitoring and The Terraform Book
+*   **[James Turnbull](https://twitter.com/kartar)** - author of [The Art of Monitoring]() and [The Terraform Book]()
 
-f.        OpenFaas – Alex @ DockerCon - https://www.youtube.com/watch?v=C3agSKv2s_w
+*   **OpenFaas** – Open Source Functions as a service not tied to a Cloud Provider - [Alex](https://www.twitter.com/alexellisuk) @ DockerCon - Tech Field Day [Video](https://www.youtube.com/watch?v=C3agSKv2s_w)
 
-4)      Orchestration & Control Points
+## Orchestration & Control Points
 
-a.       HPE OneSphere - https://www.youtube.com/watch?v=TyESpD4iklU
+* HPE OneSphere - [Intro](https://www.youtube.com/watch?v=TyESpD4iklU)
 
-b.      VM’s to Containers – Mike Coleman - https://www.youtube.com/watch?v=kT76aLugp48
+* VM’s to Containers – Mike Coleman's  - [Video](https://www.youtube.com/watch?v=kT76aLugp48) for aspiring containerised Ops folks
 
-c.       Last week in AWS - https://lastweekinaws.com/
+* **Last week in AWS** - [Subscribe](https://lastweekinaws.com/) for weekly insight and snark
 
-5)      DevOps
+## DevOps
 
-a.       2 Pizza Teams – Werner Vogels - https://vimeo.com/29719577
+* 2 Pizza Teams – Werner Vogels - [Amazon does Lean](https://vimeo.com/29719577)
 
 b.      Jessitron – See 15b
 
-c.       Jepsen Tests – https://jepsen.io/analyses
+c.       Jepsen Tests – [How bulletproof are your databases](https://jepsen.io/analyses)
 
 d.      Limoncelli Book – https://wordery.com/the-practice-of-cloud-system-administration-thomas-a-limoncelli-9780321943187
 
@@ -128,14 +128,18 @@ b.      Infra as Code - https://www.visualstudio.com/learn/what-is-infrastructur
 
 15)   Summary
 
-a.       Jon Topper – “Boring is Better” - DevopsDaysLondon17 - https://www.youtube.com/watch?v=90EUfSpk96M
+a.       Jon Topper – “Boring is Better” - DevopsDaysLondon17 - [![(https://img.youtube.com/vi/90EUfSpk96M)](https://www.youtube.com/watch?v=90EUfSpk96M)
 
-b.      Jessica Kerr – evaluating new tech - https://blog.codeship.com/growing-tech-stack-say-no/
+** [Jessica Kerr](https://www.twitter.com/jessitron) – evaluating new tech - [Blog](https://blog.codeship.com/growing-tech-stack-say-no/)
 
-c.       Microservices Principles - https://wordery.com/building-microservices-sam-newman-9781491950357 - https://www.youtube.com/watch?v=PFQnNFe27kU  
+c.       Microservices Principles [Book](https://wordery.com/building-microservices-sam-newman-9781491950357) - and the [Video](https://www.youtube.com/watch?v=PFQnNFe27kU)  
 
-d.      The Hitchhiker’s Guide to the Cloud Native Stack - https://www.youtube.com/watch?v=eMMkOyZwam4
+**  [![The Hitchhiker’s Guide to the Cloud Native Stack](https://img.youtube.com/vi/eMMkOyZwam4)](https://www.youtube.com/watch?v=eMMkOyZwam4)
 
-e.      My DevOps themed YouTube Playlist - https://www.youtube.com/playlist?list=PLL8kb_z2JqF4U6nxeUUO3mnMj-yMsFnhu
+## [My DevOps themed YouTube Playlist](https://www.youtube.com/playlist?list=PLL8kb_z2JqF4U6nxeUUO3mnMj-yMsFnhu)
 
 :rocket:
+
+
+Test - 
+[![HPE IT do Docker](http://img.youtube.com/vi/Urplr9ojyfs/0.jpg)](http://www.youtube.com/watch?v=Urplr9ojyfs)
