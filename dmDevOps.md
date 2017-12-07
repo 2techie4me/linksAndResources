@@ -25,17 +25,16 @@ d.      Kanban for Operations - https://www.youtube.com/watch?v=coRx-onQ09Y  & t
 
 3.      Observability, Instrumentation & Monitoring
 
-Dynatrace – (Case Studies)  - https://www.dynatrace.com/company/customers/
+* **Dynatrace** – (Case Studies)  - https://www.dynatrace.com/company/customers/
 
-a.       ELK – (for beginners) - https://www.youtube.com/watch?v=MRMgd6E9AXE
+*   **ELK** – (for beginners) - https://www.youtube.com/watch?v=MRMgd6E9AXE
 
-b.      Prometheus - https://www.youtube.com/watch?v=PDxcEzu62jk
+*   **[Prometheus](https://www.prometheus.io)** - https://www.youtube.com/watch?v=PDxcEzu62jk
 
-c.       Honeycomb.io - https://honeycomb.io/blog/
+*   **[Honeycomb](https://www.honeycomb.io)** - https://honeycomb.io/blog/
+ and [Charity Majors](Https://www.twitter.com/mipsytipsy) speaking at [serverlessconf](https://www.youtube.com/watch?v=hG39tB5qqMc) 
 
-d.      Charity Majors talk – https://www.youtube.com/watch?v=hG39tB5qqMc - https://twitter.com/mipsytipsy
-
-e.      James Turnbull - https://twitter.com/kartar
+e.      [James Turnbull](https://twitter.com/kartar) - author of [The Art of Monitoring and The Terraform Book
 
 f.        OpenFaas – Alex @ DockerCon - https://www.youtube.com/watch?v=C3agSKv2s_w
 
@@ -138,3 +137,5 @@ c.       Microservices Principles - https://wordery.com/building-microservices-s
 d.      The Hitchhiker’s Guide to the Cloud Native Stack - https://www.youtube.com/watch?v=eMMkOyZwam4
 
 e.      My DevOps themed YouTube Playlist - https://www.youtube.com/playlist?list=PLL8kb_z2JqF4U6nxeUUO3mnMj-yMsFnhu
+
+:rocket:
