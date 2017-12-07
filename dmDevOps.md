@@ -134,7 +134,7 @@ a.       Jon Topper – “Boring is Better” - DevopsDaysLondon17 - [![(https:
 
 c.       Microservices Principles [Book](https://wordery.com/building-microservices-sam-newman-9781491950357) - and the [Video](https://www.youtube.com/watch?v=PFQnNFe27kU)  
 
-**  [![The Hitchhiker’s Guide to the Cloud Native Stack](https://i.ytimg.com/vi/eMMkOyZwam4/hqdefault.jpg)](https://www.youtube.com/watch?v=eMMkOyZwam4)
+* **A Hitchhiker's Guide to Cloud Native** [![The Hitchhiker’s Guide to the Cloud Native Stack](https://i.ytimg.com/vi/eMMkOyZwam4/hqdefault.jpg)](https://www.youtube.com/watch?v=eMMkOyZwam4)
 
 ## [My DevOps themed YouTube Playlist](https://www.youtube.com/playlist?list=PLL8kb_z2JqF4U6nxeUUO3mnMj-yMsFnhu)
 
