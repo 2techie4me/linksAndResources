@@ -34,7 +34,7 @@
 *   **[Honeycomb](https://www.honeycomb.io)** - https://honeycomb.io/blog/
  and [Charity Majors](Https://www.twitter.com/mipsytipsy) speaking at [serverlessconf](https://www.youtube.com/watch?v=hG39tB5qqMc) 
 
-*   **[James Turnbull](https://twitter.com/kartar)** - author of [The Art of Monitoring]() and [The Terraform Book]()
+*   **[James Turnbull](https://twitter.com/kartar)** - author of [The Art of Monitoring](https://www.artofmonitoring.com/) and [The Terraform Book](https://terraformbook.com/)
 
 *   **OpenFaas** – Open Source Functions as a service not tied to a Cloud Provider - [Alex](https://www.twitter.com/alexellisuk) @ DockerCon - Tech Field Day [Video](https://www.youtube.com/watch?v=C3agSKv2s_w)
 
