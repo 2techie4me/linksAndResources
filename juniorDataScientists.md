@@ -41,7 +41,7 @@
 
 * Learn a bit of python programming to make maximum use of a Raspberry Pi - [![Pi me Up](https://www.raspberrypi.org/app/uploads/2017/05/Raspberry-Pi-3-Ports-1-1833x1080.jpg)](https://www.raspberrypi.org/)
 
-* Codecademy Free Course [![Course](https://production.cdmycdn.com/webpack/4bef5020e69a6464ebd9dabe087cb809.svg)(https://www.codecademy.com/learn/learn-python)
+* Codecademy Free Course [![Course](https://production.cdmycdn.com/webpack/4bef5020e69a6464ebd9dabe087cb809.svg)](https://www.codecademy.com/learn/learn-python)
 
 ## Community Support
 
