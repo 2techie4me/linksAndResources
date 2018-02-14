@@ -5,7 +5,8 @@
 
 ## Data Growth
 
-* [Synergy & Docker Reference Guide](https://www.hpe.com/h20195/V2/Getdocument.aspx?docname=a00008645enw)
+* [How IoT is fuelling Data Growth - Forbes.com](https://www.forbes.com/sites/louiscolumbus/2017/12/10/2017-roundup-of-internet-of-things-forecasts/)
+
 
 
 ## Audio and Video Sources
@@ -32,13 +33,13 @@ XKCD Does Genetics [![Woof!](https://imgs.xkcd.com/comics/genetic_testing.png)](
 
 ## Summary
 
-* Jon Topper – “Boring is Better” - DevopsDaysLondon17 
+* The iDEA Scheme - [Find out more and join up here](https://idea.org.uk/#big-idea)
 
-[![Boring](https://i.ytimg.com/vi/90EUfSpk96M/hqdefault.jpg)](https://www.youtube.com/watch?v=90EUfSpk96M)
+* Get Python - [Official Python Site](https://www.python.org/)
 
-* [Jessica Kerr](https://www.twitter.com/jessitron) – evaluating new tech - [Blog](https://blog.codeship.com/growing-tech-stack-say-no/)
+* Online Free Python eBook - [Python eBook](http://do.co/python-book)
 
-* Microservices Principles [Book](https://wordery.com/building-microservices-sam-newman-9781491950357) - and the [Video](https://www.youtube.com/watch?v=PFQnNFe27kU)  
+* Buy and make use of a Raspberry Pi - 
 
 * **A Hitchhiker's Guide to Cloud Native**
 
