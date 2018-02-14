@@ -5,13 +5,19 @@
 
 ## Data Growth
 
-* [How IoT is fuelling Data Growth - Forbes.com](https://www.forbes.com/sites/louiscolumbus/2017/12/10/2017-roundup-of-internet-of-things-forecasts/)
+* How Stuff Works - [What is Big Data](https://computer.howstuffworks.com/internet/basics/what-is-big-data-1.htm) 
+
+* How IoT is fuelling Data Growth - [Forbes.com](https://www.forbes.com/sites/louiscolumbus/2017/12/10/2017-roundup-of-internet-of-things-forecasts/)
 
 
 
 ## Audio and Video Sources
 
+* Data Skeptic - [Podcast](https://dataskeptic.com/)
 
+* Data Science Basics Series on YouTube by MS Azure 
+
+[![Video](https://i.ytimg.com/an_webp/0XyV91VYrDs/mqdefault_6s.webp?du=3000&sqp=CNShktQF&rs=AOn4CLD1fluDCdCBi9PJ-XjC2P4Ex4OkPA)](https://youtu.be/0XyV91VYrDs)
 
 
 
