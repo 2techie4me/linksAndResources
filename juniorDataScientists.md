@@ -11,9 +11,7 @@
 
 ## Audio and Video Sources
 
-* [The Goal](https://wordery.com/the-goal-eliyahu-m-goldratt-9780884272076) - Theory of Constraints brought to life in a Graphic Novel
 
-* [Rob Hirschfeld](https://www.twitter.com/zehickle) usually has something to say about [Infrastructure automation and Change Control](https://robhirschfeld.com/)
 
 
 
@@ -21,23 +19,28 @@
 
 * XKCD Does Genetics [![Woof!](https://imgs.xkcd.com/comics/genetic_testing.png)](https://xkcd.com/1706)
 
+* Tyler Vigen's Spurious Corelations are a great way of showing corelation != causality [![Charts](http://www.tylervigen.com/images/spurious-correlations.png)](http://www.tylervigen.com/spurious-correlations)
 
+* A Classic - [How to Lie with Statistics](https://wordery.com/how-to-lie-with-statistics-darrell-huff-9780140136296)
 
+* And a Modern Classic - [Weapons of Math Destruction](https://wordery.com/weapons-of-math-destruction-cathy-oneil-9780141985411)
 
-## Summary
+## Learning Resources
 
 * The iDEA Scheme - [Find out more and join up here](https://idea.org.uk/#big-idea)
 
 * Get Python - [Official Python Site](https://www.python.org/)
 
-* Online Free Python eBook - [Python eBook](http://do.co/python-book)
+* Online Free Python eBook from Lisa Tagliaferri - [Python eBook](http://do.co/python-book)
 
-* Buy and make good use of a Raspberry Pi - [![Pi me Up](https://www.raspberrypi.org/app/uploads/2017/05/Raspberry-Pi-3-Ports-1-1833x1080.jpg)](https://www.raspberrypi.org/)
+* Learn a bit of python programming to make maximum use of a Raspberry Pi - [![Pi me Up](https://www.raspberrypi.org/app/uploads/2017/05/Raspberry-Pi-3-Ports-1-1833x1080.jpg)](https://www.raspberrypi.org/)
 
-* **A Hitchhiker's Guide to Cloud Native**
+## Community Support
 
- [![The Hitchhiker’s Guide to the Cloud Native Stack](https://i.ytimg.com/vi/eMMkOyZwam4/hqdefault.jpg)](https://www.youtube.com/watch?v=eMMkOyZwam4)
+* HyPi - [Collaborative community for learning Python](http://www.hipy.uk/)
 
+* Leigh Hackspace
 
+* Hack Oldham
 
 :rocket:
