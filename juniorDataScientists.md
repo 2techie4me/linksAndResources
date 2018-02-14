@@ -19,15 +19,8 @@
 
 ## Do You Trust The Data?
 
-XKCD Does Genetics [![Woof!](https://imgs.xkcd.com/comics/genetic_testing.png)](https://xkcd.com/1706)
+* XKCD Does Genetics [![Woof!](https://imgs.xkcd.com/comics/genetic_testing.png)](https://xkcd.com/1706)
 
-* Monzo Outage – [Full disclosure](https://community.monzo.com/t/resolved-current-account-payments-may-fail-major-outage-27-10-2017/26296/94)
-
-* The Register Story – [Prod DB Nuked](https://www.theregister.co.uk/2017/06/05/dev_accidentally_nuked_production_database_was_allegedly_instantly_fired/)
-
-## Shared Responsibility & Goals
-
-* [AliceGoldfuss](https://www.twitter.com/alicegoldfuss) @ DockerconEurope – [Rockstars, Builders and Janitors](https://www.youtube.com/watch?v=eZp3W4qYhJc)
 
 
 
@@ -39,7 +32,7 @@ XKCD Does Genetics [![Woof!](https://imgs.xkcd.com/comics/genetic_testing.png)](
 
 * Online Free Python eBook - [Python eBook](http://do.co/python-book)
 
-* Buy and make use of a Raspberry Pi - 
+* Buy and make good use of a Raspberry Pi - [![Pi me Up](https://www.raspberrypi.org/app/uploads/2017/05/Raspberry-Pi-3-Ports-1-1833x1080.jpg)](https://www.raspberrypi.org/)
 
 * **A Hitchhiker's Guide to Cloud Native**
 
