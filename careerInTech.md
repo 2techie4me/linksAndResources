@@ -14,6 +14,8 @@ In early November 2018 I presented a talk to an audience of interns and early ca
 
 * [IBM acquires RedHat and Open-Source will never be the same again - The Register article](https://www.theregister.co.uk/2018/10/28/ibm_redhat_acquisition/)
 
+* [Let's Make People Valuable Again - Article on TechCrunch: How can the rest of us do better out of the digital economy](https://techcrunch.com/2018/11/04/make-people-valuable-again/)
+
 ### Software ###
 
 * [The Cathedral and the Bazaar - How Open-Source Software took over the world](https://www.safaribooksonline.com/library/view/the-cathedral/0596001088/index.html)
