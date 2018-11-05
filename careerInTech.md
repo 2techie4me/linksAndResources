@@ -1,5 +1,9 @@
 # A Career in Tech #
 
+In early November 2018 I presented a talk to an audience of interns and early career colleagues at HPE on the subject of "hacking" your career plans for the digital age. Below are the "further reading" links and resources so that those with an inquiring mind can dig a little deeper. 
+
+Ian V. Nov 2018
+
 ## Recommended Resources ##
 
 ### General Reading ###
