@@ -1,8 +1,8 @@
 # A Career in Tech #
 
-In early November 2018 I presented a talk to an audience of interns and early career colleagues at HPE on the subject of "hacking" your career plans for the digital age. Below are the "further reading" links and resources so that those with an inquiring mind can dig a little deeper. 
+In early November 2018 I presented a talk to an audience of interns and early career colleagues at HPE on the subject of "hacking" your career plans for the digital age. Below are the "further reading" links and resources so that those with an inquiring mind can dig a little deeper.
 
-Ian V. Nov 2018
+[Ian V](https://twitter.com/2techie4me). Nov 2018
 
 ## Recommended Resources ##
 
@@ -12,7 +12,7 @@ Ian V. Nov 2018
 
 * [History of the "Hello World" Program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
-* [IBM acquires RedHat - The Register article](https://www.theregister.co.uk/2018/10/28/ibm_redhat_acquisition/)
+* [IBM acquires RedHat and Open-Source will never be the same again - The Register article](https://www.theregister.co.uk/2018/10/28/ibm_redhat_acquisition/)
 
 ### Software ###
 
@@ -22,7 +22,7 @@ Ian V. Nov 2018
 
 * ["Ten deploys a day" at Flickr - Watershed moment when software development and IT operations came together to reduce risk of change through tools and culture](https://www.youtube.com/watch?v=LdOe18KhtT4&t)  
 
-* [Monzo - A Bank designed to run in the cloud](https://www.computing.co.uk/ctg/interview/3035496/how-monzo-leveraged-aws-and-kubernetes-to-build-an-agile-retail-bank)
+* [Monzo - A Bank designed from scratch to run in the cloud](https://www.computing.co.uk/ctg/interview/3035496/how-monzo-leveraged-aws-and-kubernetes-to-build-an-agile-retail-bank)
 
 * [The Illustrated Guide to Kubernetes](https://www.youtube.com/watch?v=4ht22ReBjno)
 
@@ -30,7 +30,7 @@ Ian V. Nov 2018
 
 * [A video summary of Daniel Kahneman's "Thinking Fast and Slow"](https://www.youtube.com/watch?v=uqXVAo7dVRU)
 
-* [Nassim Nicholas Taleb talks about his Book "Antifragile", how systems gain strength from disorder and randomness](https://www.youtube.com/watch?v=uqXVAo7dVRU)
+* [Nassim Nicholas Taleb talks about his Book "Antifragile", how systems gain strength from disorder and randomness](https://www.youtube.com/watch?v=k4MhC5tcEv0)
 
 ### Data ###
 
@@ -42,9 +42,9 @@ Ian V. Nov 2018
 
 ## Get Involved ##
 
-* [The IDEA Scheme - Gain modern Digital Skills](https://www.idea.org.uk/)
+* [The IDEA Scheme - Gain some modern Digital Skills and some Certificates to prove it](https://www.idea.org.uk/)
 
-* [Become a STEM Ambassador and volunteer to help bring STEM subjects to life and demonstrate the value of them in life and careers](https://www.stem.org.uk/)
+* [Become a STEM Ambassador: Volunteer to help bring STEM subjects to life and to demonstrate the value of them in life and careers](https://www.stem.org.uk/)
 
 ## General Learning Hints and Tips ##
 
@@ -58,4 +58,4 @@ Ian V. Nov 2018
 
 ## Video Watchlist ##
 
-* [Collection of Videos on YouTube with Software Development Improving IT Theme](https://www.youtube.com/playlist?list=PLL8kb_z2JqF4U6nxeUUO3mnMj-yMsFnhu)
+* [Collection of Videos on YouTube with Software Development and Improving IT Theme](https://www.youtube.com/playlist?list=PLL8kb_z2JqF4U6nxeUUO3mnMj-yMsFnhu)
