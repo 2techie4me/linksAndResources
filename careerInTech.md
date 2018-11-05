@@ -28,6 +28,8 @@ In early November 2018 I presented a talk to an audience of interns and early ca
 
 * [The Illustrated Guide to Kubernetes](https://www.youtube.com/watch?v=4ht22ReBjno)
 
+* [A Beginner's Guide to Version Control with GitHub](https://guides.github.com/activities/hello-world/)
+
 ### Bias and the effect of randomness ###
 
 * [A video summary of Daniel Kahneman's "Thinking Fast and Slow"](https://www.youtube.com/watch?v=uqXVAo7dVRU)
