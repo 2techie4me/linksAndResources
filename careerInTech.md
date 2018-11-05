@@ -1,26 +1,34 @@
 # A Career in Tech #
 
-**General Reading:**
+## Recommended Resources ##
+
+### General Reading ###
 
 * [Paul Ford's Bloomberg article "What is Code?"](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 * [History of the "Hello World" Program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
-* [IBM acquires RedHat - The Register article -](https://www.theregister.co.uk/2018/10/28/ibm_redhat_acquisition/)
+* [IBM acquires RedHat - The Register article](https://www.theregister.co.uk/2018/10/28/ibm_redhat_acquisition/)
 
-* [The Cathedral and the Bazaar - How Open-Source Software took over the world -](https://www.safaribooksonline.com/library/view/the-cathedral/0596001088/index.html)
+### Software ###
 
-* [Monzo - A Bank designed to run in the cloud -](https://www.computing.co.uk/ctg/interview/3035496/how-monzo-leveraged-aws-and-kubernetes-to-build-an-agile-retail-bank)
+* [The Cathedral and the Bazaar - How Open-Source Software took over the world](https://www.safaribooksonline.com/library/view/the-cathedral/0596001088/index.html)
 
-* [The Illustrated Guide to Kubernetes -](https://www.youtube.com/watch?v=4ht22ReBjno)
+* [The Phoenix Project: A Novel about About IT, DevOps, and Helping Your Business Win](https://www.oreilly.com/library/view/the-phoenix-project/9781457191350/)
 
-**Bias and the effect of randomness**
+* ["Ten deploys a day" at Flickr - Watershed moment when software development and IT operations came together to reduce risk of change through tools and culture](https://www.youtube.com/watch?v=LdOe18KhtT4&t)  
+
+* [Monzo - A Bank designed to run in the cloud](https://www.computing.co.uk/ctg/interview/3035496/how-monzo-leveraged-aws-and-kubernetes-to-build-an-agile-retail-bank)
+
+* [The Illustrated Guide to Kubernetes](https://www.youtube.com/watch?v=4ht22ReBjno)
+
+### Bias and the effect of randomness ###
 
 * [A video summary of Daniel Kahneman's "Thinking Fast and Slow"](https://www.youtube.com/watch?v=uqXVAo7dVRU)
 
 * [Nassim Nicholas Taleb talks about his Book "Antifragile", how systems gain strength from disorder and randomness](https://www.youtube.com/watch?v=uqXVAo7dVRU)
 
-**Data**
+### Data ###
 
 * [Weapons of Math Destruction TED Talk - How Big Data has a real effect on lives](https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end?language=en)
 
@@ -28,14 +36,22 @@
 
 * [Tyler Vigen's Spurious Correlations Website](http://tylervigen.com/spurious-correlations)
 
-**Get Involved:**
+## Get Involved ##
 
 * [The IDEA Scheme - Gain modern Digital Skills](https://www.idea.org.uk/)
 
 * [Become a STEM Ambassador and volunteer to help bring STEM subjects to life and demonstrate the value of them in life and careers](https://www.stem.org.uk/)
 
-**General Hints and Tips**
+## General Learning Hints and Tips ##
 
 * [Use a Kanban board to organize your life](https://lifehacker.com/productivity-101-how-to-use-personal-kanban-to-visuali-1687948640)
 
+* [Use the "5 hour rule" to organize your weekly learning habits - Medium.com Article](https://medium.com/the-mission/the-5-hour-rule-if-youre-not-spending-5-hours-per-week-learning-you-re-being-irresponsible-791c3f18f5e6)
+
+* [Look for local Technology Events near you on Meetup.com](https://www.meetup.com/find/events/tech/?allMeetups=false&radius=50&userFreeform=bracknell&mcId=c1012842&change=yes&eventFilter=mysugg)
+
 * [Microsoft Skills Website](https://docs.microsoft.com/en-gb/learn/)
+
+## Video Watchlist ##
+
+* [Collection of Videos on YouTube with Software Development Improving IT Theme](https://www.youtube.com/playlist?list=PLL8kb_z2JqF4U6nxeUUO3mnMj-yMsFnhu)
