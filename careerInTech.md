@@ -24,6 +24,8 @@ In early November 2018 I presented a talk to an audience of interns and early ca
 
 * [Monzo - A Bank designed from scratch to run in the cloud](https://www.computing.co.uk/ctg/interview/3035496/how-monzo-leveraged-aws-and-kubernetes-to-build-an-agile-retail-bank)
 
+* [The Cloud Native Compute Foundation's current "Landscape" of Cloud Native technologies along with the Trail Map to help Enterprises navigate unfamiliar territory](https://github.com/cncf/landscape)
+
 * [The Illustrated Guide to Kubernetes](https://www.youtube.com/watch?v=4ht22ReBjno)
 
 ### Bias and the effect of randomness ###
