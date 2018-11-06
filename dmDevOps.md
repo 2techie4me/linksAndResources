@@ -1,15 +1,12 @@
 # Notes & References from DM does DevOps talk
 
-
-
-
 ## Cloud Consumption XaaS
 
 * [Synergy & Docker Reference Guide](https://www.hpe.com/h20195/V2/Getdocument.aspx?docname=a00008645enw)
 
 * [Simplivity powered Private Cloud in Minutes](https://h20195.www2.hpe.com/V2/GetPDF.aspx/a00008252ENW.pdf)
 
-* [Nimble Plugin for Containers (deep dive)](https://www.youtube.com/watch?list=PLinuRwpnsHad0tatAfa4kIWQzGNkiHqW1&v=h-xnYVgzfro) 
+* [Nimble Plugin for Containers (deep dive)](https://www.youtube.com/watch?list=PLinuRwpnsHad0tatAfa4kIWQzGNkiHqW1&v=h-xnYVgzfro)
 
 * [HPE & Docker - Modernizing Traditional Applications Service](https://www.hpe.com/h20195/V2/Getdocument.aspx?docname=a00020124enw)
 
@@ -27,30 +24,30 @@
 
 * **Dynatrace** application monitoring – [Case Studies](https://www.dynatrace.com/company/customers/)
 
-*   **ELK** – [Video for beginners](https://www.youtube.com/watch?v=MRMgd6E9AXE)
+* **ELK** – [Video for beginners](https://www.youtube.com/watch?v=MRMgd6E9AXE)
 
-*   **[Prometheus](https://www.prometheus.io)** - [Video from DockerCon Europe](https://www.youtube.com/watch?v=PDxcEzu62jk)
+* **[Prometheus](https://www.prometheus.io)** - [Video from DockerCon Europe](https://www.youtube.com/watch?v=PDxcEzu62jk)
 
-*   **[Honeycomb](https://www.honeycomb.io)** - https://honeycomb.io/blog/
- and [Charity Majors](Https://www.twitter.com/mipsytipsy) speaking at [serverlessconf](https://www.youtube.com/watch?v=hG39tB5qqMc) 
+* **[Honeycomb](https://www.honeycomb.io)** - [blog](https://honeycomb.io/blog/)
+ and [Charity Majors](Https://www.twitter.com/mipsytipsy) speaking at [serverlessconf](https://www.youtube.com/watch?v=hG39tB5qqMc)
 
-*   **[James Turnbull](https://twitter.com/kartar)** - author of [The Art of Monitoring](https://www.artofmonitoring.com/) and [The Terraform Book](https://terraformbook.com/)
+* **[James Turnbull](https://twitter.com/kartar)** - author of [The Art of Monitoring](https://www.artofmonitoring.com/) and [The Terraform Book](https://terraformbook.com/)
 
-*   **OpenFaas** – Open Source Functions as a service not tied to a Cloud Provider - [Alex](https://www.twitter.com/alexellisuk) @ DockerCon - Tech Field Day [Video](https://www.youtube.com/watch?v=C3agSKv2s_w)
+* **[OpenFaas](https://www.openfaas.com/)** – Open Source Functions as a service not tied to a Cloud Provider - [Alex](https://www.twitter.com/alexellisuk) @ DockerCon - Tech Field Day [Video](https://www.youtube.com/watch?v=C3agSKv2s_w)
 
 ## Orchestration & Control Points
 
-* HPE OneSphere - [Intro](https://www.youtube.com/watch?v=TyESpD4iklU)
+* HPE OneSphere - [Intro](https://www.youtube.com/watch?v=TyESpD4iklU) to HPE's toolset driving Composable Infrastructure
 
 * VM’s to Containers – Mike Coleman's  - [Video](https://www.youtube.com/watch?v=kT76aLugp48) for aspiring containerised Ops folks
 
-* **Last week in AWS** - [Subscribe](https://lastweekinaws.com/) for weekly insight and snark
+* **Last week in AWS** - [Subscribe](https://lastweekinaws.com/) to Corey Quinn's email newsletter for weekly insight and snark or go one better and [listen](https://www.screaminginthecloud.com) to the Podcast
 
 ## DevOps
 
 * 2 Pizza Teams – Werner Vogels - [Amazon does Lean](https://vimeo.com/29719577)
 
-* Jessitron – See 15b
+* Jessitron talks about [acceleration](https://www.youtube.com/watch?v=5NMT5kmi4Ck) in software development
 
 * Jepsen Tests – [How bulletproof are your databases](https://jepsen.io/analyses)
 
@@ -60,23 +57,23 @@
 
 ## Pipeline security
 
-* [NIST White Paper](https://www.nist.gov/publications/nist-guidance-application-container-security)
+* [NIST White Paper](https://www.nist.gov/publications/nist-guidance-application-container-security) a foundation for securing containerized workloads
 
-* [Application Securty (Panel)](https://www.youtube.com/watch?v=_MNHkkI9TBk)
+* [Video](https://www.youtube.com/watch?v=_MNHkkI9TBk) of the panel discusssing Application securuity at DockerCon17
 
-* [LinuxKit](https://github.com/linuxkit/linuxkit)
+* [LinuxKit](https://github.com/linuxkit/linuxkit) a software toolkit for producing your own minimalist Linux image to run Containers
 
 * [HPE with Aqua reference Architecture](https://www.hpe.com/h20195/V2/Getdocument.aspx?docname=a00020438enw) for container image scanning
 
 * [Grafeas.io](https://grafeas.io/blog/) an open source framework for securing container images
 
-## Lean & Continuous Learning
+## Lean Methodology & Continuous Learning
 
 * [Mike Rother](http://www-personal.umich.edu/~mrother/Homepage.html) - Continuous Improvement with Toyota Kata
 
-* DevOps Café – [Episode with Randy Shoup](http://devopscafe.org/show/2017/10/11/devops-cafe-episode-76-randy-shoup.html)
+* DevOps Café – [Episode with Randy Shoup](http://devopscafe.org/show/2017/10/11/devops-cafe-episode-76-randy-shoup.html) discussing the economies of speed needed to compete in the new race to market
 
-* [Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF)
+* [Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF) has been proven to be 15% more efficient than traditional methods not through being faster but by needing less rework and fixes
 
 ## Service Resilience
 
@@ -84,25 +81,25 @@
 
 * [O’Reilly Velocity Conference Talks](https://www.youtube.com/playlist?list=PL055Epbe6d5br5pYNZ9mTCKl4EKS1Nk0Y) - they are all good
 
-* Limoncelli  -Chapter 15
+* Tom Limoncelli presents some of the [Radical Ideas from Cloud Computing](https://www.infoq.com/presentations/resilient-distributed-systems)
 
-* [Antifragile Book](https://wordery.com/antifragile-nassim-nicholas-taleb-9780141038223)
+* Nassim Nicholas Taleb's Antifragile [Book](https://wordery.com/antifragile-nassim-nicholas-taleb-9780141038223) - how external "stressors" bring resilience to systems
 
 ## Organizational Culture
 
 * Drucker Cultural Change - Spotify Engineering Culture - [Pt 1](https://vimeo.com/85490944) and [Pt 2](https://vimeo.com/94950270)
 
-* [HPE Pointnext Simulation Day Video](https://www.youtube.com/watch?v=1VSEvX_ZvOI)
+* HPE Pointnext Simulation Day [Video](https://www.youtube.com/watch?v=1VSEvX_ZvOI)
 
-* [HPE Management of Change](https://www.youtube.com/watch?v=WgKFDAALmp4)
+* HPE Management of Change [video](https://www.youtube.com/watch?v=WgKFDAALmp4)
 
- ## Learning Organization
+## Learning Organization
 
 * Deming Cycle - Lighning Talk from [John Willis](https://www.twitter.com/botchagalupe) O'Reilly Velocity [talk](https://www.youtube.com/watch?v=QcRWQIL5qus)
 
 * Monzo Outage – [Full disclosure](https://community.monzo.com/t/resolved-current-account-payments-may-fail-major-outage-27-10-2017/26296/94)
 
-* The Register Story – [Prod DB Nuked](https://www.theregister.co.uk/2017/06/05/dev_accidentally_nuked_production_database_was_allegedly_instantly_fired/)
+* The Register Story – [Prod DB Nuked](https://www.theregister.co.uk/2017/06/05/dev_accidentally_nuked_production_database_was_allegedly_instantly_fired/) oops, but where does the blame lie?
 
 ## Shared Responsibility & Goals
 
@@ -118,29 +115,30 @@
 
 ## Transformation Highway
 
-* Microsoft’s Visual Studio Team underwent a 3 year journey to embrace [DevOps](https://www.visualstudio.com/learn/devops-at-microsoft/)
+* Microsoft’s Visual Studio Team underwent a 3 year journey to fully embrace [DevOps](https://www.visualstudio.com/learn/devops-at-microsoft/)
 
 ## World in My Eyes
 
 * Linux Foundation Introduction to [DevOps](https://www.edx.org/course/introduction-devops-transforming-linuxfoundationx-lfs161x) course
 
-* What is [Infrastructure as Code](https://www.visualstudio.com/learn/what-is-infrastructure-as-code/)
+* What is [Infrastructure as Code](https://www.visualstudio.com/learn/what-is-infrastructure-as-code/), Microsoft seem to have a good idea.
 
 ## Summary
 
-* Jon Topper – “Boring is Better” - DevopsDaysLondon17 
+* Jon Topper – “Boring is Better” - DevopsDaysLondon17
 
 [![Boring](https://i.ytimg.com/vi/90EUfSpk96M/hqdefault.jpg)](https://www.youtube.com/watch?v=90EUfSpk96M)
 
 * [Jessica Kerr](https://www.twitter.com/jessitron) – evaluating new tech - [Blog](https://blog.codeship.com/growing-tech-stack-say-no/)
 
-* Microservices Principles [Book](https://wordery.com/building-microservices-sam-newman-9781491950357) - and the [Video](https://www.youtube.com/watch?v=PFQnNFe27kU)  
+* Sam Newman's Microservices Principles [Book](https://wordery.com/building-microservices-sam-newman-9781491950357) - and the highlights [Video](https://www.youtube.com/watch?v=PFQnNFe27kU)  
 
 * **A Hitchhiker's Guide to Cloud Native**
 
  [![The Hitchhiker’s Guide to the Cloud Native Stack](https://i.ytimg.com/vi/eMMkOyZwam4/hqdefault.jpg)](https://www.youtube.com/watch?v=eMMkOyZwam4)
 
-And finally if you are still wanting more...
-*  [My DevOps themed YouTube Playlist](https://www.youtube.com/playlist?list=PLL8kb_z2JqF4U6nxeUUO3mnMj-yMsFnhu)
+### And finally if you are still wanting more
+
+* My DevOps themed YouTube [Playlist](https://www.youtube.com/playlist?list=PLL8kb_z2JqF4U6nxeUUO3mnMj-yMsFnhu)
 
 :rocket:

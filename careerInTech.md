@@ -34,6 +34,8 @@ In early November 2018 I presented a talk to an audience of interns and early ca
 
 ### Bias and the effect of randomness ###
 
+* Wired.com made a [video](http://video.wired.com/watch/how-the-internet-tricks-you-into-thinking-you-re-always-right) on Confirmation Bias - Why what you see on the Internet confirms your beliefs rather than challenges your opinions.
+
 * [A video summary of Daniel Kahneman's "Thinking Fast and Slow"](https://www.youtube.com/watch?v=uqXVAo7dVRU)
 
 * [Nassim Nicholas Taleb talks about his Book "Antifragile", how systems gain strength from disorder and randomness](https://www.youtube.com/watch?v=k4MhC5tcEv0)
