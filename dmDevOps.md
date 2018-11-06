@@ -110,21 +110,21 @@
 
 ## CI/CD
 
-* [Humble & Farley Book](https://wordery.com/continuous-delivery-jez-humble-9780321601919)
+* Humble & Farley -  The definitive [Book](https://wordery.com/continuous-delivery-jez-humble-9780321601919) on Continuous Delivery
 
-* [Farley’s Laws – Video](https://www.youtube.com/watch?v=dQzkT5A95Go)
+* Farley’s Laws – [Video](https://www.youtube.com/watch?v=dQzkT5A95Go) on YouTube
 
-* [HPE Branded training on CI/CD](https://www.hpe.com/h20195/V2/Getdocument.aspx?docname=a00000481enw)
+* HPE Branded [training](https://www.hpe.com/h20195/V2/Getdocument.aspx?docname=a00000481enw) on Continuous Integration / Continous Delivery
 
 ## Transformation Highway
 
-* [Microsoft’s Visual Studio – 3 year Journey](https://www.visualstudio.com/learn/devops-at-microsoft/)
+* Microsoft’s Visual Studio Team underwent a 3 year journey to embrace [DevOps](https://www.visualstudio.com/learn/devops-at-microsoft/)
 
 ## World in My Eyes
 
-* [DevOps](https://www.edx.org/course/introduction-devops-transforming-linuxfoundationx-lfs161x)
+* Linux Foundation Introduction to [DevOps](https://www.edx.org/course/introduction-devops-transforming-linuxfoundationx-lfs161x) course
 
-* [Infra as Code](https://www.visualstudio.com/learn/what-is-infrastructure-as-code/)
+* What is [Infrastructure as Code](https://www.visualstudio.com/learn/what-is-infrastructure-as-code/)
 
 ## Summary
 

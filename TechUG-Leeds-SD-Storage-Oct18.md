@@ -11,6 +11,8 @@ All computer storage, from a vendor propriatory array to a open-source scale-out
 
 * Software Defined Infrastructure drives the on-prem part of your Cloud Strategy: [Why do we need it?](https://packetpushers.net/podcast/datanauts-147-whats-your-private-cloud-strategy/)
 
+* Microsoft's view on [Infrastructure as code](https://www.visualstudio.com/learn/what-is-infrastructure-as-code/)
+
 * [Software Defined Storage](https://en.wikipedia.org/wiki/Software-defined_storage), defined as per Wikipedia - always a good place to start
 
 * Strong, light and cheap - choose two! What have Mountainbike frames to do with IT Infrastructure? Well, it's just a way of [expressing the constraints](https://medium.com/@devsociety_/good-cheap-fast-pick-two-and-how-ngos-can-play-the-triangle-like-a-pro-20d1380884a8) and highlighting that different priorities will influence the amount of risk or spend organizations are willing to bear in order to go faster and improve time to market.
@@ -31,7 +33,7 @@ All computer storage, from a vendor propriatory array to a open-source scale-out
 
 * [Scality](https://www.scality.com/products/ring/) and [Cloudian](https://cloudian.com/) - Object storage for large scale-out deployments into the 100's of Petabytes and beyond.
 
-* [RedHat Ceph](https://www.redhat.com/en/technologies/storage/ceph) and [SUSE Enterprise Storage](https://www.suse.com/products/suse-enterprise-storage/) - The two major Linux distro's each have an increasingly Enterprise focussed software proposition built out of the Ceph project and enhanced with aditional provisioning (Ansible and Salt respectively), monitoring and administration tools. Redhat still seemingly differentiates between Object and File with Ceph and [Gluster](https://www.redhat.com/en/technologies/storage/gluster) as seperate offerings. SUSE has a Ceph Object back-end but has native object, CephFS iSCSI, NFS and SMB/CIFS gateways to facilitate multiple use-cases. These solutions can deliver exceptional bang for buck due to the software cost only coming from node based support (the software itself is built from free open-source components) rather than capacity based subscriptions as per other vendors. Further info in this [discussion document](http://content.suse.com/suse-storage-fn/5-steps-to-getting-s). 
+* [RedHat Ceph](https://www.redhat.com/en/technologies/storage/ceph) and [SUSE Enterprise Storage](https://www.suse.com/products/suse-enterprise-storage/) - The two major Linux distro's each have an increasingly Enterprise focussed software proposition built out of the Ceph project and enhanced with aditional provisioning (Ansible and Salt respectively), monitoring and administration tools. Redhat still seemingly differentiates between Object and File with Ceph and [Gluster](https://www.redhat.com/en/technologies/storage/gluster) as seperate offerings. SUSE has a Ceph Object back-end but has native object, CephFS iSCSI, NFS and SMB/CIFS gateways to facilitate multiple use-cases. These solutions can deliver exceptional bang for buck due to the software cost only coming from node based support (the software itself is built from free open-source components) rather than capacity based subscriptions as per other vendors. Further info in this [discussion document](http://content.suse.com/suse-storage-fn/5-steps-to-getting-s).
 
 ## Emerging Technologies ##
 
